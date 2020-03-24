@@ -1,5 +1,5 @@
 
-#Official Source Data
+# Official Source Data
 
 This folder contains captures of official data released by the Washington State
 Department of Health. This allows users of the dataset to trace everything
